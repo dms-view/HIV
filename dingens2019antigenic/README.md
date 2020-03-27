@@ -11,4 +11,4 @@ To view the data from [An antigenic atlas of HIV-1 escape from broadly neutraliz
 - metadata file: [`dingens2019antigenic.md`](dingens2019antigenic.md)
 
 ### processing script 
-- [process_antigenic_atlas.py](rocess_antigenic_atlas.py): Python script to create the [`HIV_dms-view.csv`](HIV_dms-view.csv) data file. This script retrieves the site and mutation data from [EnvsAntigenicAtlas](https://github.com/jbloomlab/EnvsAntigenicAtlas).
+- [process_antigenic_atlas.py](process_antigenic_atlas.py): Python script to create the [`HIV_dms-view.csv`](HIV_dms-view.csv) data file. This script retrieves the site and mutation data from [EnvsAntigenicAtlas](https://github.com/jbloomlab/EnvsAntigenicAtlas).
