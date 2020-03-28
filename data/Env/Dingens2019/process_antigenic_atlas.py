@@ -137,7 +137,7 @@ def main():
     site = site_long_form(pdb_map, HXB2_map)
     mut = mut_long_form(pdb_map, HXB2_map)
     df = final(site, mut)
-    df.to_csv('HIV_dms-view.csv', index=False)
+    df.to_csv('Dingens2019.csv', index=False)
     print(df.columns.values)
 
 if __name__ == '__main__':
