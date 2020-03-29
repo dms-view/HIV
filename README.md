@@ -4,8 +4,11 @@
 
 ### ENV
 
-- Antibody escape mutations of HIV BG505 ENV from a panel of monoclonal antibodies measured by [Dingens _et al._, 2019](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2FDingens2019.md&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2F5FYL_AbsRemoved.pdb&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2FDingens2019.csv&condition=PGT121&site_metric=site_avgfracsurvive+%28median+of+reps%29&mutation_metric=mut_excess+frac+survive+%28median+of+reps%29&selected_sites=323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C415%2C416%2C417%2C441) for a interactive `dms-view` visualization that shows escape from the antibody PGT121.
+- Antibody escape mutations of HIV BG505 Env from a panel of monoclonal antibodies measured by [Dingens _et al._, 2019](https://research.fhcrc.org/content/dam/stripe/bloom/labfiles/publications/Dingens2019.pdf).
+[See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2FDingens2019.md&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2F5FYL_AbsRemoved.pdb&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2019%2FDingens2019.csv&condition=PGT121&site_metric=site_avgfracsurvive+%28median+of+reps%29&mutation_metric=mut_excess+frac+survive+%28median+of+reps%29&selected_sites=323%2C324%2C325%2C326%2C327%2C328%2C329%2C330%2C331%2C332%2C333%2C334%2C415%2C416%2C417%2C441) for an interactive `dms-view` visualization.
 The raw data are [here](data/Env/Dingens2019).
+- Rabbit sera escape mutations of HIV BG505 Env. [See here](https://dms-view.github.io/?markdown-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2020%2FDingens2020.md&data-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2020%2FDingens2020.csv&condition=2124-Wk22&site_metric=site_positive+diffsel+%28median+of+reps%29&mutation_metric=mut_mut+pos+diffsel+%28median+of+reps%29&selected_sites=464&pdb-url=https%3A%2F%2Fraw.githubusercontent.com%2Fdms-view%2FHIV%2Fmaster%2Fdata%2FEnv%2FDingens2020%2F5FYL_AbsRemoved.pdb) for an interactive `dms-view` visualization.
+The raw data are [here](data/Env/Dingens2020).
 
 
 ## Adding data sets
