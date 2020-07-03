@@ -1,5 +1,5 @@
-# Comprehensive, residue-level mapping of polyclonal neutralizing antibody responses in BG505 SOSIP trimer vaccinated rabbits
-Adam S. Dingens, Payal Pratap, Keara Malone, Thomas Ketas, P.J Klasse, John Moore, Andrew Ward, Jesse D. Bloom (and likely others)
+# Contrasting total polyclonal serum neutralization and binding to evaluate HIV trimer immunization (working title)
+Adam S. Dingens, Payal Pratap, Keara Malone, Sarah K. Hilton, Thomas Ketas, Christopher Cottrell, P.J Klasse, John Moore, Andrew Ward, Jesse D. Bloom (and likely others, author list is not final)
 
 We performed mutational antigenic profiling of BG505 SOSIP trimer vaccinated rabbit serum, provided by John Moore and PJ Klasse. Our first mutational antigenic profiling analysis of escape from PGT151 using the BF520 env libraries was published [here](http://dx.doi.org/10.1016/j.chom.2017.05.003) in June 2017, and this original analysis is located [in this ipython notebook](https://github.com/adingens/BF520_MutationalAntigenicProfiling_PGT151).
 
