@@ -1,7 +1,7 @@
-# Contrasting total polyclonal serum neutralization and binding to evaluate HIV trimer immunization (working title)
+# High-resolution mapping of the neutralizing and binding specificities of polyclonal rabbit serum elicited by HIV trimer immunization 
 Adam S. Dingens, Payal Pratap, Keara Malone, Sarah K. Hilton, Thomas Ketas, Christopher Cottrell, P.J Klasse, John Moore, Andrew Ward, Jesse D. Bloom (and likely others, author list is not final)
 
-We performed mutational antigenic profiling of BG505 SOSIP trimer vaccinated rabbit serum, provided by John Moore and PJ Klasse. Our first mutational antigenic profiling analysis of escape from PGT151 using the BF520 env libraries was published [here](http://dx.doi.org/10.1016/j.chom.2017.05.003) in June 2017, and this original analysis is located [in this ipython notebook](https://github.com/adingens/BF520_MutationalAntigenicProfiling_PGT151).
+We performed mutational antigenic profiling of BG505 SOSIP trimer vaccinated rabbit serum, provided by John Moore and PJ Klasse. 
 
 Here, we used BG505.T332N mutant Env libraries, first described and characterized in [Haddox, Dingens et al 2018](https://elifesciences.org/articles/34420). Note that this is matched to the BG505 immunogens, enabling profiling of autologous responses.
 
@@ -16,11 +16,15 @@ The site-metrics (dot plot) include:
 - **positive diffsel**: The sum of all positive differential selection values at a site (site level). This gives a sense to the total amount of escape/selective pressure at each site.
 - **negative diffsel**: The sum of all negative differential selection values at a site (site level). This gives a sense for mutations that are depleted, rather than enriched, during serum selection relative to a non-selected control library. It is intriguing that many of these potential serum sensitizing mutations cluster and are consistent across sera.
 - **max diffsel**: The value of the largest effect mutation (largest mutation differential selection) at each site (site level).
+- **min diffsel**: The value of the smallest effect mutation (smalled mutation differential selection) at each site.
+- **abs diffsel**: The absolute value of all mutation differential selection values at each site.
 
-The mutation-metrics (logoplot) include
 
-- **diffsel**
-- **pos diffsel**
+The mutation-metrics (logo plot) include
+
+- **diffsel**: All mutation differential selection values, including negative values, are plotted. 
+- **pos diffsel**: Only the mutations with positive differential selection values. 
+
 
 Additionally,
 
